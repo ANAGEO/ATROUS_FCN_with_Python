@@ -1,2 +1,3 @@
-# ATROUS_FCN_with_Python
-This is a repository....s
+# ATROUS FULLY CONVOLUTIONAL NEURAL NETWORK
+
+This is a repository contains tutorial on running atrous fully convolutonal networks
